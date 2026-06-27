@@ -13,16 +13,7 @@
 <p>I'm **Christama Ezra Yudianto**, an undergraduate Computer Engineering student at Universitas Brawijaya. 
 While in Senior High School, I developed a strong interest in **Competitive Programming**, which laid the foundation for my logical and algorithmic thinking. Currently, I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco network topologies, training computer vision models for segmentation, or developing smart systems using ESP32, Kafka for event streaming, and n8n for workflow automation.</p>
 
-> **🟢 I'm open to collaborations, research projects, and new opportunities!**
-
-💡 Beyond debugging Python/C++ code or managing my Linux servers, I spend my free time staying active with weightlifting and daily cardio, or exploring algorithmic trading.
-
-<p align="left">
-  <a href="https://github.com/ezra1702">
-    <img src="https://komarev.com/ghpvc/?username=ezra1702&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
-
+> ** I'm open to collaborations, research projects, and new opportunities!**
 ---
 
 ## 📊 GitHub Stats
