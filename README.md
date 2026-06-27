@@ -1,8 +1,12 @@
 <p align="center">
   <a href="https://github.com/ezra1702">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ezra!;Computer+Engineering+Student;IoT+%26+MLOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ezra!;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
+
+<h3 align="center">DevOps & MLOps | Network & Infrastructure IT | IoT Enthusiast</h3>
+
+<br>
 
 # 👋 About Me  
 
@@ -12,6 +16,12 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 > **🟢 I'm open to collaborations, research projects, and new opportunities!**
 
 💡 Beyond debugging Python/C++ code or managing my Linux servers, I spend my free time staying active with weightlifting and daily cardio, or exploring algorithmic trading.
+
+<p align="left">
+  <a href="https://github.com/ezra1702">
+    <img src="https://komarev.com/ghpvc/?username=ezra1702&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
@@ -39,6 +49,8 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/GNS3-00B294?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
   <img src="https://img.shields.io/badge/n8n-EA4B35?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" alt="InfluxDB" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 ---
