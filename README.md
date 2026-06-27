@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=Hi,%20I'm%20Ezra!&fontSize=50&animation=fadeIn" alt="header"/>
+  <a href="https://github.com/ezra1702">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ezra!;Computer+Engineering+Student;IoT+%26+MLOps+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 # 👋 About Me  
 
 I'm **Christama Ezra Yudianto**, an undergraduate Computer Engineering student at Universitas Brawijaya. 
-I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco network topologies, training computer vision models for segmentation, or developing smart systems using ESP32 and motion detection sensors.
+I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco network topologies, training computer vision models for segmentation, or developing smart systems using ESP32, Kafka for event streaming, and n8n for workflow automation.
 
 > **🟢 I'm open to collaborations, research projects, and new opportunities!**
 
@@ -19,11 +21,24 @@ I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ezra1702">
+    <img src="https://github-readme-stats.vercel.app/api?username=ezra1702&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ezra1702">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezra1702&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Skills & Technologies  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,latex,html,css,js,arduino,raspberrypi,linux,ubuntu,docker,tensorflow,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,latex,html,css,js,arduino,linux,ubuntu,docker,tensorflow,kafka,n8n,git,github" alt="My Skills" />
   </a>
 </p>
 
@@ -40,7 +55,7 @@ I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN
     </td>
     <td width="50%" valign="top">
       <b>🚦 Smart City Surveillance Simulation</b><br>
-      Network surveillance setup emphasizing Traffic Detection via Motion Sensors (not standard temperature sensors).<br>
+      Network surveillance setup emphasizing Traffic Detection via Motion Sensors.<br>
       <code>Networking</code> <code>Linux</code> <code>CCTV</code>
     </td>
   </tr>
@@ -66,8 +81,4 @@ I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN
   <a href="https://github.com/ezra1702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/TLX-6C4BB5?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 </p>
