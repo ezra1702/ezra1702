@@ -7,7 +7,7 @@
 # 👋 About Me  
 
 I'm **Christama Ezra Yudianto**, an undergraduate Computer Engineering student at Universitas Brawijaya. 
-I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco network topologies, training computer vision models for segmentation, or developing smart systems using ESP32, Kafka for event streaming, and n8n for workflow automation.
+While in Senior High School, I developed a strong interest in **Competitive Programming**, which laid the foundation for my logical and algorithmic thinking. Currently, I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco network topologies, training computer vision models for segmentation, or developing smart systems using ESP32, Kafka for event streaming, and n8n for workflow automation.
 
 > **🟢 I'm open to collaborations, research projects, and new opportunities!**
 
@@ -38,7 +38,7 @@ I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,latex,html,css,js,arduino,linux,ubuntu,docker,tensorflow,kafka,n8n,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cpp,python,latex,html,css,js,arduino,linux,ubuntu,docker,tensorflow,kafka,n8n,git,github" alt="My Skills" />
   </a>
 </p>
 
@@ -81,4 +81,8 @@ I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN
   <a href="https://github.com/ezra1702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/TLX-6C4BB5?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 </p>
