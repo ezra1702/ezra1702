@@ -13,12 +13,6 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 
 💡 Beyond debugging Python/C++ code or managing my Linux servers, I spend my free time staying active with weightlifting and daily cardio, or exploring algorithmic trading.
 
-<p align="left">
-  <a href="https://github.com/ezra1702">
-    <img src="https://komarev.com/ghpvc/?username=ezra1702&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
@@ -38,8 +32,13 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cpp,python,latex,html,css,js,arduino,linux,ubuntu,docker,tensorflow,kafka,n8n,git,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cpp,python,latex,html,css,js,arduino,linux,ubuntu,docker,tensorflow,kafka,git,github" alt="My Skills" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/GNS3-00B294?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+  <img src="https://img.shields.io/badge/n8n-EA4B35?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
