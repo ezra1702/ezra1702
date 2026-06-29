@@ -8,7 +8,7 @@
 
 <br>
 
-# 👋 About Me  
+#  About Me  
 
 I'm **Christama Ezra Yudianto**, an undergraduate Computer Engineering student at Universitas Brawijaya. 
 While in Senior High School, I developed a strong interest in **Competitive Programming**, which laid the foundation for my logical and algorithmic thinking. Currently, I have a deep focus on **Network, IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco and Mikrotik network topologies, training computer vision models for segmentation, or developing smart systems using ESP32, Kafka for event streaming, and n8n for workflow automation.
@@ -17,7 +17,7 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 > 🎯 Goal: Become a Data Center Engineer.
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ezra1702">
@@ -30,7 +30,7 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 
 ---
 
-## 🛠️ Skills & Technologies  
+##  Skills & Technologies  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -47,29 +47,16 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 
 ---
 
-## 🚀 Featured Projects
-
+## 🚀 Featured Freelancer Projects
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>⚡ VoltEdge</b><br>
-      IoT power & gas monitor using PZEM-004T + MQ-2 + OLED with FreeRTOS multi-task FSM.<br>
-      <code>ESP32</code> <code>FreeRTOS</code> <code>C++</code>
-    </td>
-    <td width="50%" valign="top">
-      <b>🚦 Smart City Surveillance Simulation</b><br>
-      Network surveillance setup emphasizing Traffic Detection via Motion Sensors.<br>
-      <code>Networking</code> <code>Linux</code> <code>CCTV</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🏢 Website Korpri Papua</b><br>
+      <b>Website Korpri Papua 2023 </b><br>
       Official web portal for Korpri Provinsi Papua featuring organizational profiles and news.<br>
       <code>HTML</code> <code>CSS</code> <code>JS</code>
     </td>
     <td width="50%" valign="top">
-      <b>🏅 SIM KONI Papua</b><br>
+      <b>SIM KONI Papua 2026</b><br>
       Web-based management information system for the Papua Provincial Sports Committee.<br>
       <code>HTML</code> <code>JS</code> <code>.NET</code>
     </td>
@@ -78,7 +65,7 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://github.com/ezra1702"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
