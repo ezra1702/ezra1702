@@ -13,8 +13,8 @@
 I'm **Christama Ezra Yudianto**, an undergraduate Computer Engineering student at Universitas Brawijaya. 
 While in Senior High School, I developed a strong interest in **Competitive Programming**, which laid the foundation for my logical and algorithmic thinking. Currently, I have a deep focus on **IoT (Internet of Things), Wireless Sensor Networks (WSN), and MLOps**. I enjoy bridging the gap between hardware and software—whether it's configuring Cisco network topologies, training computer vision models for segmentation, or developing smart systems using ESP32, Kafka for event streaming, and n8n for workflow automation.
 
-📚 Currently preparing for the Cisco CCNP Data Center certification.
-🎯 Goal: Become a Data Center Engineer.
+> 📚 Currently preparing for the Cisco CCNP Data Center certification.
+> 🎯 Goal: Become a Data Center Engineer.
 ---
 
 ## 📊 GitHub Stats
