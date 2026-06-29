@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">DevOps & MLOps | Computer Vision for Robotics | Network & Infrastructure IT | IoT and WSN</h3>
+<h3 align="center">Computer Vision for Robotics | Network & Infrastructure IT | IoT and WSN</h3>
 
 <br>
 
