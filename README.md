@@ -53,12 +53,10 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
     <td width="50%" valign="top">
       <b>Website Korpri Papua 2023 </b><br>
       Official web portal for Korpri Provinsi Papua featuring organizational profiles and news.<br>
-      <code>HTML</code> <code>CSS</code> <code>JS</code>
     </td>
     <td width="50%" valign="top">
       <b>SIM KONI Papua 2026</b><br>
       Web-based management information system for the Papua Provincial Sports Committee.<br>
-      <code>HTML</code> <code>JS</code> <code>.NET</code>
     </td>
   </tr>
 </table>
