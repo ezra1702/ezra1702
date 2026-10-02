@@ -21,10 +21,10 @@ While in Senior High School, I developed a strong interest in **Competitive Prog
 
 <p align="center">
   <a href="https://github.com/ezra1702">
-    <img src="https://github-readme-stats.vercel.app/api?username=ezra1702&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ezra1702&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ezra1702">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezra1702&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ezra1702&theme=tokyonight&hide_border=true&background=0D1117&timezone=Asia%2FJakarta" alt="GitHub Streak" />
   </a>
 </p>
 
